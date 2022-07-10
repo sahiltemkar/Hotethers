@@ -20,6 +20,7 @@ This project effectively stores the booking data on the blockchain network nowad
 - NodeJS
 - Ganache 
 
+
 ### ⚙ Working
 The block diagram above depicts how the model should work in that it will first take input from the person regarding all of the data of the choices that he wants in a hotel, such as room number and hotel name, and then the manager will check the room and inform him of its condition, as well as transfer the owner card if the person wishes to purchase it. The person will be given ownership once he has provided the appropriate amount of eth. To make this site more accessible to the general public, we've placed a converter at the top that converts eth price to inr. There's also a connect button that connects the site to Metamask and allows you to switch between the two wallets. This will input the data, which will then be saved on the blockchain network. Once the data is saved on the blockchain network, no one will be able to change it because it is on the blockchain network.
 
